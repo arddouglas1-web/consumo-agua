@@ -5,7 +5,7 @@
 imovel_tipo = input("Digite o tipo de imóvel (casa, apartamento ou comercial) ")
 consumo_agua = float(input("Digite o consumo de água mensal (m3) " ))
 
-# Processamento de Dados
+# Processamento e Saída de Dados
 if      imovel_tipo == "comercial":
         print ("Tarifa comercial aplicada, consulte o plano corporativo.")
 elif    imovel_tipo  == "apartamento" and consumo_agua < 10: 
