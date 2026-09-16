@@ -1,4 +1,4 @@
-# Medidor de consumdo de água
+# Medidor de consumo de água
 # Douglas Arruda
 
 # Entrada de Dados
